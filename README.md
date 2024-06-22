@@ -22,4 +22,23 @@ Install the package via npm:
 ```bash
 npm install string-utils
 ```
-# npm-string-package
+# npm-string-package Usage
+
+```javascript
+const {
+  capitalize,
+  camelCase,
+  snakeCase,
+  kebabCase,
+  titleCase,
+  reverseString,
+} = require("string-utils");
+
+// Example usage of string-utils functions
+const capitalizedString = capitalize("hello world"); // 'Hello world'
+const camelCasedString = camelCase("hello world"); // 'helloWorld'
+const snakeCasedString = snakeCase("hello world"); // 'hello_world'
+const kebabCasedString = kebabCase("hello world"); // 'hello-world'
+const titleCasedString = titleCase("hello world"); // 'Hello World'
+const reversedString = reverseString("hello world"); // 'dlrow olleh'
+```
