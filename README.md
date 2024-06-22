@@ -20,7 +20,7 @@ A comprehensive string manipulation library for JavaScript, providing a variety 
 Install the package via npm:
 
 ```bash
-npm install string-utils
+npm install @abdulrehman7007/string-utils-js
 ```
 # npm-string-package Usage
 
@@ -32,7 +32,7 @@ const {
   kebabCase,
   titleCase,
   reverseString,
-} = require("string-utils");
+} = require("@abdulrehman7007/string-utils-js");
 
 // Example usage of string-utils functions
 const capitalizedString = capitalize("hello world"); // 'Hello world'
