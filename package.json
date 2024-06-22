@@ -1,5 +1,5 @@
 {
-  "name": "string-utils-js",
+  "name": "@abdulrehman7007/string-utils-js",
   "version": "1.0.0",
   "description": "A comprehensive string manipulation library for JavaScript.",
   "main": "src/index.js", 
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourusername/string-utils.git"
+    "url": "https://github.com/abdulRehman7071/npm-string-package"
   },
   "keywords": [
     "string",
@@ -22,12 +22,12 @@
     "titleCase",
     "reverseString"
   ],
-  "author": "Your Name",
+  "author": "Abdul Rehman Khan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/yourusername/string-utils/issues"
+    "url": "https://github.com/abdulRehman7071/npm-string-package/issues"
   },
-  "homepage": "https://github.com/yourusername/string-utils#readme",
+  "homepage": "https://github.com/abdulRehman7071/npm-string-package#readme",
   "devDependencies": {
     "jest": "^27.0.0",
     "eslint": "^7.0.0"
