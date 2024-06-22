@@ -1,0 +1,35 @@
+{
+  "name": "string-utils",
+  "version": "1.0.0",
+  "description": "A comprehensive string manipulation library for JavaScript.",
+  "main": "src/index.js", 
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint src/**/*.js tests/**/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/string-utils.git"
+  },
+  "keywords": [
+    "string",
+    "manipulation",
+    "utility",
+    "capitalize",
+    "camelCase",
+    "snakeCase",
+    "kebabCase",
+    "titleCase",
+    "reverseString"
+  ],
+  "author": "Your Name",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yourusername/string-utils/issues"
+  },
+  "homepage": "https://github.com/yourusername/string-utils#readme",
+  "devDependencies": {
+    "jest": "^27.0.0",
+    "eslint": "^7.0.0"
+  }
+}
